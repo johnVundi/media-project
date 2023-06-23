@@ -1,7 +1,26 @@
 {
-    "users":[
-        {"id":1, "name":"myra"}
-    ],
-    "albums": [],
-    "photos": []
+  "users": [
+    {
+      "id": 1,
+      "name": "myra"
+    },
+    {
+      "name": "Antonia Upton Sr.",
+      "id": 2
+    },
+    {
+      "name": "Marilyn Dickens",
+      "id": 3
+    },
+    {
+      "name": "Ms. Esther Purdy-Veum PhD",
+      "id": 4
+    },
+    {
+      "name": "Veronica Schinner",
+      "id": 5
+    }
+  ],
+  "albums": [],
+  "photos": []
 }
